@@ -55,3 +55,6 @@ For next 100 units Rs. 0.75/unit
 For next 100 units Rs. 1.20/unit
 For unit above 250 Rs. 1.50/unit
 An additional surcharge of 20% is added to the bill
+
+
+Date : 9-9-25
