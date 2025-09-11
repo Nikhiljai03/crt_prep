@@ -58,3 +58,8 @@ An additional surcharge of 20% is added to the bill
 
 
 Date : 9-9-25
+q1:
+printing :
+*
+*
+*

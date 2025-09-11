@@ -51,14 +51,44 @@ public class crt9_9_25 {
         //     end++;
         // }
 
-        int n =  sc.nextInt();
-        int m = sc.nextInt();
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                System.out.print("* ");
-            }
-            System.out.println();
-        }   
+        // int n =  sc.nextInt();
+        // int m = sc.nextInt();
+        // for(int i = 0; i < n; i++){
+        //     for(int j = 0; j < m; j++){
+        //         System.out.print("* ");
+        //     }
+        //     System.out.println();
+        // }   
+
+        // int n =  sc.nextInt();
+        // for(int i = 0; i < n;i++){
+        //     System.out.println("$@ $@ $@"+"\n"+"*1 *2 *3");
+        // }
+
+        // int n = sc.nextInt();
+        // int m = sc.nextInt();
+        // for(int i = 0; i <= n; i++){
+        //     for(int j = 0; j < 5;j++){
+        //         System.out.print(m + " ");
+        //         m += 1;
+        //     }
+        //     System.out.println();
+        // } 
+
+        // int n = sc.nextInt();
+        // int p = n + 1;
+        // for(int i = 0; i < n; i++){
+
+        //     for(int j = 0; j < p;j++){
+        //         if(j < n-i){
+        //         System.out.print("* ");
+        //     }
+        //     else{
+        //         System.out.print("@ ");
+        //     }
+        //     }
+        //     System.out.println();
+        // }
     }
 }
 
